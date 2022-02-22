@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "OH,SO WHITE!!!"
+title: "COME ON BOYS！！"
 ---
 Your text
-404 NOT FOUND!!!
+OHHH,so WHITE!!!
